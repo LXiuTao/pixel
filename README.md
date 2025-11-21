@@ -1,6 +1,5 @@
-# Pixel Mosaic Generator
+# Pixel Mosaic Generator--基于图像库的马赛克拼贴图片（像素风格艺术）
 
-创建基于图像库的马赛克拼贴图片（像素风格艺术）
 💡 提示：为了获得更精细、高质量的马赛克效果，建议先使用 [Upscayl](https://github.com/upscayl/upscayl) 对原始图片进行 AI 超分辨率放大。提升原图分辨率后，你在分割像素块时将拥有更大的操作空间，从而生成细节更丰富、过渡更自然的马赛克拼贴作品。
 
 📌 简介
